@@ -1,5 +1,5 @@
 hub MyHub
 shortLabel WaterBuffaloHub
 longLabel BigBed annotations for water buffalo
-genomesFile https://neyrouz1991.github.io/ucsc-track-hub/genomes.txt
+genomesFile genomes.txt
 email neyrouz.letaief@unito.it
