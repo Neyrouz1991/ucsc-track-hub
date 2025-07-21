@@ -1,0 +1,6 @@
+track male_swamp
+shortLabel Male Swamp .bb
+longLabel BigBed annotations for male swamp buffalo
+type bigBed 6
+visibility pack
+bigDataUrl https://raw.githubusercontent.com/neyrouz1991/ucsc-track-hub/main/male_swamp.bb
