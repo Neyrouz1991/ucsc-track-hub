@@ -1,0 +1,6 @@
+track maleSwampTrack
+shortLabel MaleSwamp
+longLabel Water buffalo annotations (male swamp data)
+type bigBed 6
+visibility dense
+bigDataUrl male_swamp.bb

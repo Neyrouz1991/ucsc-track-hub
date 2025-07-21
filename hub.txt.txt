@@ -1,0 +1,5 @@
+hub MyHub
+shortLabel WaterBuffaloHub
+longLabel BigBed annotations for water buffalo
+genomesFile genomes.txt
+email Neyrouz.letaief@unito.it
